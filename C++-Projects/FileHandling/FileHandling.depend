@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1664610934 source:c:\users\tankiso\desktop\quick docs\projects\myc++\filehandling\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Exceptions.h"
+
+1664610727 c:\users\tankiso\desktop\quick docs\projects\myc++\filehandling\exceptions.h
+	<string>
+
+1664610738 source:c:\users\tankiso\desktop\quick docs\projects\myc++\filehandling\fileopenexceptionstudents.cpp
+	"Exceptions.h"
+
+1664610817 source:c:\users\tankiso\desktop\quick docs\projects\myc++\filehandling\fileopenexceptionmodules.cpp
+	"Exceptions.h"
+

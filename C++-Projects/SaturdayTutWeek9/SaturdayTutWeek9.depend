@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664615488 source:c:\users\tankiso\desktop\quick docs\projects\myc++\saturdaytutweek9\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Exceptions.h"
+
+1664613221 c:\users\tankiso\desktop\quick docs\projects\myc++\saturdaytutweek9\exceptions.h
+	<string>
+
+1664613482 source:c:\users\tankiso\desktop\quick docs\projects\myc++\saturdaytutweek9\exceptions.cpp
+	"Exceptions.h"
+
